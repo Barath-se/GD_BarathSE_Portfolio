@@ -16,7 +16,7 @@ export default function ContactMe() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-blue-300">Email</h3>
-                <p className="text-gray-400">your.email@example.com</p>
+                <p className="text-gray-400">barathsiv2008@gmail.com</p>
               </div>
             </div>
             <p className="text-gray-400 text-sm">Send me a message and I'll respond as soon as possible.</p>
@@ -55,7 +55,7 @@ export default function ContactMe() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-blue-300">Business Hours</h3>
-                <p className="text-gray-400">Monday - Friday, 9AM - 6PM</p>
+                <p className="text-gray-400">As per the Works</p>
               </div>
             </div>
             <p className="text-gray-400 text-sm">I respond to inquiries within 24 hours.</p>
@@ -66,19 +66,14 @@ export default function ContactMe() {
           <h2 className="text-2xl sm:text-3xl font-bold text-blue-300 mb-8">Follow Me</h2>
 
           <div className="flex flex-wrap gap-4 mb-8">
-            <a
-              href="#"
-              className="flex items-center space-x-2 px-6 py-3 bg-white/5 border border-blue-400/20 rounded-lg hover:bg-blue-500/30 hover:border-blue-400 transition-colors text-gray-300 hover:text-blue-300"
-            >
-              <Linkedin className="w-5 h-5" />
-              <span>LinkedIn</span>
-            </a>
+           
+            
 
             <a
               href="#"
               className="flex items-center space-x-2 px-6 py-3 bg-white/5 border border-blue-400/20 rounded-lg hover:bg-blue-500/30 hover:border-blue-400 transition-colors text-gray-300 hover:text-blue-300"
             >
-              <Instagram className="w-5 h-5" />
+              <Instagram className="barath.mp3" />
               <span>Instagram</span>
             </a>
 
